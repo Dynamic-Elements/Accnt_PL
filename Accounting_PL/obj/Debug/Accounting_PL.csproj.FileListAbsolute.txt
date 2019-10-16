@@ -1,0 +1,29 @@
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.ResolveComReference.cache
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.Form1.resources
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.Properties.Resources.resources
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.GenerateResource.cache
+D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.exe.config
+D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.exe
+D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.pdb
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.exe
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.pdb
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csprojAssemblyReference.cache
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\BrowseForm.resources
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.exe.config
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.exe
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\Accounting_PL.pdb
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csprojAssemblyReference.cache
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.ResolveComReference.cache
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\BrowseForm.resources
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.Form1.resources
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.Properties.Resources.resources
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.GenerateResource.cache
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.CoreCompileInputs.cache
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.exe
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.pdb
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.dll
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.xml
+C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.CopyComplete
+D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.dll
+D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.xml
+D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.CopyComplete
