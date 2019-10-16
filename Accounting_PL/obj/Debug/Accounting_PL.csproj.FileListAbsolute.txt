@@ -27,3 +27,8 @@ C:\Users\Dynamic Elements 3\Desktop\DE_Accounting\Accounting_PL\Accounting_PL\ob
 D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.dll
 D:\DE_Accounting\Accounting_PL\Accounting_PL\bin\Debug\VFPToolkitNET.xml
 D:\DE_Accounting\Accounting_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.CopyComplete
+C:\Users\Dynamic Elements 3\Documents\GitHub\Accnt_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.ResolveComReference.cache
+C:\Users\Dynamic Elements 3\Documents\GitHub\Accnt_PL\Accounting_PL\obj\Debug\BrowseForm.resources
+C:\Users\Dynamic Elements 3\Documents\GitHub\Accnt_PL\Accounting_PL\obj\Debug\Accounting_PL.Form1.resources
+C:\Users\Dynamic Elements 3\Documents\GitHub\Accnt_PL\Accounting_PL\obj\Debug\Accounting_PL.Properties.Resources.resources
+C:\Users\Dynamic Elements 3\Documents\GitHub\Accnt_PL\Accounting_PL\obj\Debug\Accounting_PL.csproj.GenerateResource.cache

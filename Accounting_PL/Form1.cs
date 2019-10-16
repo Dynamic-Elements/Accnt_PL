@@ -194,5 +194,10 @@ namespace Accounting_PL
             panel5.Visible = false;
             panel5.SendToBack();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
